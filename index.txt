@@ -1,7 +1,0 @@
-This is first line!
-
-This line is for the task 001.
-
-this line is for the task 002.
-
-this line is for the task 002 too.
