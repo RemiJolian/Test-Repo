@@ -1,1 +1,2 @@
 Hi every one!
+This file is only a test file.
